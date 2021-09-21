@@ -1,4 +1,4 @@
-## Oiii! Eu sou a Adriano A. Ramos 
+## Oi! Eu sou a Adriano 
  <div>
   <a href="https://github.com/AdrianoARamos">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=AdrianoARamos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
